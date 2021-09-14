@@ -1,0 +1,15 @@
+3. Jelaskan perbedaan dari MVP dan MVVM, berdasarkan pemahaman anda **Tanpa Browsing**
+Jawaban : 
+MVVM
+- maintainability
+- testability
+- extensibility
+**note dikarenakan saya belum pernah mencoba MVP jadi saya masih kurang paham
+
+4. Jelaskan perbedaan dari Activity, Fragment, dan Background Service, berasarkan pemahaman anda **Tanpa Browsing**
+Jawaban :
+- Activity sendiri berfungsi untuk menampilkan UI ke layar user
+- Sebuah Activity dapat menampung beberapa fragment
+- Sedangkan Fragment tidak bisa berdiri tanpa adanya Activity
+- Sedangkan beberapa fragment hanya dapat ditampung pada sebuah Activity
+- Background Service sendiri bekerja tanpa user tau prosesnya seperti apa
